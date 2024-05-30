@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/StarterContent/Maps/MAPANIMATION.umap",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/StarterContent/Maps/StarterMap.umap",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BT_Catcheur.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BP_runner.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BB_runner.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BT_runner.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/AIC_Runner.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/blueprintanim/bp_runner.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BTTask_deplacement.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BTTask_findnextdestination.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BTTask_Idle.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BTTask_Playernear.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/BTTask_playerseen.uasset",
+				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/animation.uasset",
 				"C:/Users/TEMP/Desktop/anim_ue5_pirinoli/MyProject2/Content/animation.uasset",
 				"C:/Users/TEMP/Desktop/anim_ue5_pirinoli/MyProject2/Content/blueprintanim/bp_runner.uasset",
 				"C:/Users/TEMP/Desktop/anim_ue5_pirinoli/MyProject2/Content/Breathing_Idle.uasset",
@@ -151,8 +167,7 @@
 				"C:/Users/TEMP/Desktop/anim_ue5_pirinoli/MyProject2/Content/__ExternalActors__/NewMap/8/HY/JZPU84BV4E1I9POD5F0DX5.uasset",
 				"C:/Users/TEMP/Desktop/anim_ue5_pirinoli/MyProject2/Content/__ExternalActors__/NewMap/9/TQ/UP9KKJKG4HSFUTXS8T4RX4.uasset",
 				"C:/Users/TEMP/Desktop/anim_ue5_pirinoli/MyProject2/Content/NewMap.umap",
-				"C:/Users/TEMP/Desktop/anim_ue5_pirinoli/MyProject2/Content/StarterContent/Maps/StarterMap.umap",
-				"C:/Users/TEMP/Documents/GitHub/anim_ue5_pirinoli/MyProject2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"C:/Users/TEMP/Desktop/anim_ue5_pirinoli/MyProject2/Content/StarterContent/Maps/StarterMap.umap"
 			]
 		}
 	]
